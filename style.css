@@ -1,4 +1,4 @@
-h1, h2, h3 {
+h1, h2 {
     font-family: 'Montserrat', sans-serif;
     text-align: center;
 }
@@ -17,27 +17,13 @@ h2 {
     font-weight: 600;
 }
 
-h3 {
-    color: #8F0000;
-    font-size: 1.75em;
-    font-weight: 400;
-}
-
 body {
-    background-color: #FFFFB2;
+    background-color: #FFFF58;
     font-family: 'Montserrat', 'PT Sans', sans-serif, 'Slabo 27px', serif;
     font-size: 16px;
     font-weight: 400;
     line-height: 1.6em;
     margin: 40px 40px 40px 40px;
-}
-
-.FCCLA {
-    float: left;
-}
-
-.Okinawa {
-    float: right;
 }
 
 p {
@@ -87,6 +73,10 @@ ul {
     border: 20px solid #FF7F00;
 }
 
+td {
+    text-align: center;
+}
+
 .links{
     color: #0000ff;
     text-decoration: none;
@@ -102,18 +92,10 @@ img {
   -webkit-border-radius: 10px;
 }
 
-.right {
-    float: right;
-}
-
-.left {
-    float: left;
-}
-
 figcaption{
-    color: #0000ff;
+    color: #CD0000;
     font-family: 'PT Sans', sans-serif;
-    font-size: 1em;
+    font-size: 1.25em;
     font-weight: 400;
     font-style: bold;
     width: 400px;
